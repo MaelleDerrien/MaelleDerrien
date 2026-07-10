@@ -1,6 +1,6 @@
 # Maëlle Derrien, Ph. D.
 
-Chimiste. Je travaille sur les composés naturels et la matière organique des sols.
+Je travaille sur les composés naturels et la matière organique des sols.
 
 Après un doctorat en sciences des aliments (bioraffinage de résidus végétaux) et sept ans de R&D appliquée en industrie et en centres de transfert technologique, je poursuis un second doctorat en sciences du sol à l'Université Laval. J'y étudie la dynamique du carbone organique dans les sols agricoles québécois, au sein du réseau des Laboratoires vivants d'Agriculture et Agroalimentaire Canada.
 
